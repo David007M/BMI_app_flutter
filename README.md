@@ -1,9 +1,14 @@
 # BMI_app_flutter
 
+
+* A Udemy course PJ app by `Dr.Angela Yu`
+
+
+
 ![bmi-calc-demo](https://github.com/David007M/BMI_app_flutter/assets/91298962/9817ddcd-1bbd-421b-bfbf-016dd25c2446)
 
 
-## What I have learnt
+> ## What I have learnt
 
 - How to use Flutter themes to create coherent branding.
 - How to create multi-page apps using Flutter Routes and Navigator.
