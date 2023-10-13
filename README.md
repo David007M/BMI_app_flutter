@@ -17,4 +17,4 @@
 - Understand the difference between const and final in Dart and when to use each.
 
 > [!NOTE]
-> For the UI inspiration source, special thank to the @**Ruben Vaalt** from _Dribbble_.
+> For the UI inspiration source, special thank to @**Ruben Vaalt** from _Dribbble_.
